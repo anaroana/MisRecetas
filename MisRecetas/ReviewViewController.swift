@@ -2,8 +2,8 @@
 //  ReviewViewController.swift
 //  MisRecetas
 //
-//  Created by Ana Rocha on 15/12/17.
-//  Copyright © 2017 Kite. All rights reserved.
+//  Created by Ana Rocha on 18/12/17.
+//  Copyright © 2017 Kite. All rights reserved...
 //
 
 import UIKit
