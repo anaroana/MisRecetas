@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MisRecetas
 //
-//  Created by Ana Rocha on 12/12/17.
+//  Created by Ana Rocha on 18/12/17.
 //  Copyright © 2017 Kite. All rights reserved.
 //
 
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    internal func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         UINavigationBar.appearance().barTintColor = UIColor(red: 240/255, green: 113/255, blue: 115/255, alpha: 1)
         UINavigationBar.appearance().tintColor = UIColor.white
